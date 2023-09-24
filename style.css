@@ -49,7 +49,7 @@ flex-wrap: nowrap;
 
     
 .pak{
-    background-image:url(imag/bg_2.jpg);
+    background-image:url(./bg_2.jpg);
     background-size: cover;
     height: 700px;
     
@@ -82,7 +82,7 @@ flex-wrap: nowrap;
 /* ========================================================================================================================= */
 
 .bener_1{
-    background-image:url(imag/5842951fa6515b1e0ad75ad0.png) ,url(imag/exJTXDm-louis-vuitton-wallpapers.jpg);
+    background-image:url(./5842951fa6515b1e0ad75ad0.png) ,url(./exJTXDm-louis-vuitton-wallpapers.jpg);
     background-size:200px,500px;
     background-position:center ;
     background-repeat:no-repeat,repeat;
@@ -93,7 +93,7 @@ flex-wrap: nowrap;
 /* ========================================================================================================================= */
 
 .bener_2{
-background-image:url(imag/Gucci-Logo-Transparent-PNG.png), url(imag/gucci-logo-print-12.jpg);
+background-image:url(./Gucci-Logo-Transparent-PNG.png), url(./gucci-logo-print-12.jpg);
 background-size:300px,auto;
     background-position:center,center ;
     background-repeat:no-repeat,repeat;
@@ -104,7 +104,7 @@ border-radius: 10px;
 /* ========================================================================================================================= */
 
 .bener_3{
-    background-image: url(imag/wallpaperflare.com_wallpaper.jpg);
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
     background-size: contain;
     height:350px;
     border-radius: 10px;
@@ -113,7 +113,7 @@ border-radius: 10px;
 /* ========================================================================================================================= */
 
 /* .bener_4{
-  background-image: url(imag/915774.jpg); 
+  background-image: url(./915774.jpg); 
   background-size:contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -124,7 +124,7 @@ border-radius: 10px;
 /* ========================================================================================================================= */
 
 .bener_5{
-    background-image: url(imag/png-transparent-versace-background-2.png);
+    background-image: url(./png-transparent-versace-background-2.png);
     background-repeat: repeat;
     background-position: center;
     height:350px;
@@ -134,7 +134,7 @@ border-radius: 10px;
 /* ========================================================================================================================= */
 
 .bener_6{
-    background-image: url(imag/ralph\ lauren\ polo\ logo\ Logospikecom\ Famous\ and\ Free\ Vector\ Logos.jpg);
+    background-image: url(./ralph\ lauren\ polo\ logo\ Logospikecom\ Famous\ and\ Free\ Vector\ Logos.jpg);
     background-size:1000px;
     background-repeat: no-repeat;
     background-position: center;
@@ -147,7 +147,7 @@ border-radius: 10px;
 /* ========================================================================================================================= */
 
 .bener_7{
-    background-image:url(imag/burberry.jpg), url(imag/bbb.jpg);
+    background-image:url(./burberry.jpg), url(./bbb.jpg);
     background-size:500px,auto;
   background-repeat:no-repeat,repeat;
   background-position: center;
@@ -450,70 +450,6 @@ a{
 
 /* ========================================================================================================================= */
 
-.bag{
-    height: 70%;
-    background-image: url(imag/bag1.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-/* ========================================================================================================================= */
-.bag2{
-    height: 70%;
-    background-image: url(imag/bag2.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-
-}
-
-.bag3{
-    height: 70%;
-    background-image: url(imag/ba3.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-
-.bag4{
-    height: 70%;
-    background-image: url(imag/ba4.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-/* ========================================================================================================================= */
-.bag5{
-    height: 70%;
-    background-image: url(imag/bag5.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-
-.bag6{
-    height: 70%;
-    background-image: url(imag/bag6.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-
-.bag7{
-    height: 70%;
-    background-image: url(imag/bag7.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
-
-.bag8{
-    height: 70%;
-    background-image: url(imag/bag8.png);
-    background-size: contain;
-    background-repeat:no-repeat;
-    background-position: bottom;
-}
 
 
 
@@ -551,7 +487,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/louis-vuitton--BC_FWE_WOMEN_EDITORIALISATION_228_LVCOM_2048x1152_DI3.webp);
+background-image: url(./louis-vuitton--BC_FWE_WOMEN_EDITORIALISATION_228_LVCOM_2048x1152_DI3.webp);
 background-position: top;
 background-size: cover;
 }
@@ -559,14 +495,14 @@ background-size: cover;
 
 .vanm2{
     position: relative;
-    background-image: url(imag/louis-vuitton--WOMEN_SHOES_LVTRAINER_MM_DI3.webp);
+    background-image: url(./louis-vuitton--WOMEN_SHOES_LVTRAINER_MM_DI3.webp);
     background-color: white;
     grid-row:3/5;
     border-radius: 10px;
 }
 
 .vanm3{
-    background-image: url(imag/louis-vuitton--ArtofLiving_ConnectedWatch_DI3_September2023.webp);
+    background-image: url(./louis-vuitton--ArtofLiving_ConnectedWatch_DI3_September2023.webp);
     background-size: cover;
     background-position: bottom;
     position: relative;
@@ -577,7 +513,7 @@ background-size: cover;
 
 .vanm4{
 position: relative;
-    background-image: url(imag/swXb7ayu__720x0__1.webp);
+    background-image: url(./swXb7ayu__720x0__1.webp);
     background-color: white;
     grid-column:3/5;
     grid-row:1/5;
@@ -593,7 +529,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/Blog\ Pic1\ .png);
+background-image: url(./Blog\ Pic1\ .png);
 background-position: top;
 background-size: cover;
 background-position: center;
@@ -602,7 +538,7 @@ background-position: center;
 
 .vanm6{
     position: relative;
-    background-image: url(imag/Gucci-Shoes-for-Mens-Gucci-Sneakers-9999926430_365x420.jpg);
+    background-image: url(./Gucci-Shoes-for-Mens-Gucci-Sneakers-9999926430_365x420.jpg);
     background-size: cover;
     background-position: center;
     background-color: white;
@@ -611,7 +547,7 @@ background-position: center;
 }
 
 .vanm7{
-    background-image: url(imag/5e9d1b9b-14f4-4d55-bb36-2e29c1ffa75d_Untitled+Design.webp);
+    background-image: url(./5e9d1b9b-14f4-4d55-bb36-2e29c1ffa75d_Untitled+Design.webp);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -622,7 +558,7 @@ background-position: center;
 
 .vanm8{
 position: relative;
-    background-image: url(imag/PromoComponent_63670910O0G9022_001_Default.webp);
+    background-image: url(./PromoComponent_63670910O0G9022_001_Default.webp);
     background-size: cover;
     background-color: white;
     grid-column:3/5;
@@ -640,7 +576,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/P_169_Sellier_AH23_Yellow.webp);
+background-image: url(./P_169_Sellier_AH23_Yellow.webp);
 background-position: center;
 background-size: cover;
 }
@@ -648,7 +584,7 @@ background-size: cover;
 
 .vanm10{
     position: relative;
-    background-image: url(imag/P_34_Shoes_AH23_Femme_CARROUSEL_3.webp);
+    background-image: url(./P_34_Shoes_AH23_Femme_CARROUSEL_3.webp);
     background-size: cover;
     background-position: bottom;
     background-color: white;
@@ -657,7 +593,7 @@ background-size: cover;
 }
 
 .vanm11{
-    background-image: url(imag/2137_Hermes_Watches_Wonders_7.jpg);
+    background-image: url(./2137_Hermes_Watches_Wonders_7.jpg);
     background-size:578px;
     background-position: center;
     position: relative;
@@ -668,7 +604,7 @@ background-size: cover;
 
 .vanm12{
 position: relative;
-    background-image: url(imag/download.webp);
+    background-image: url(./download.webp);
     background-size: cover;
     background-color: white;
     grid-column:3/5;
@@ -686,7 +622,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/hbz-liz-hurley-00-index-1553010048.jpg);
+background-image: url(./hbz-liz-hurley-00-index-1553010048.jpg);
 background-position:center;
 background-size: cover;
 background-position: center;
@@ -695,7 +631,7 @@ background-position: center;
 
 .vanm14{
     position: relative;
-    background-image: url(imag/4444404609ad7894e40a7d8b4ffca23d089\ \(1\).webp);
+    background-image: url(./4444404609ad7894e40a7d8b4ffca23d089\ \(1\).webp);
     background-size: cover;
     background-position: center;
     background-color: white;
@@ -704,7 +640,7 @@ background-position: center;
 }
 
 .vanm15{
-    background-image: url(imag/VERSACE_1600x_440e7e35-3cb8-438a-82bd-eed3762d5ca3.webp);
+    background-image: url(./VERSACE_1600x_440e7e35-3cb8-438a-82bd-eed3762d5ca3.webp);
     background-size: 487px;
     background-position: right;
     position: relative;
@@ -715,7 +651,7 @@ background-position: center;
 
 .vanm16{
 position: relative;
-    background-image: url(imag/best-versace-bags-301528-1659392114937-main.1200x0c.jpg);
+    background-image: url(./best-versace-bags-301528-1659392114937-main.1200x0c.jpg);
     background-size: cover;
     background-position: center;
     background-color: white;
@@ -734,7 +670,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/53_367940e2-e857-4f07-b91f-7ef97c0dba60_700x.webp);
+background-image: url(./53_367940e2-e857-4f07-b91f-7ef97c0dba60_700x.webp);
 
 background-size: cover;
 background-position: center;
@@ -743,7 +679,7 @@ background-position: center;
 
 .vanm18{
     position: relative;
-    background-image: url(imag/wk32_2023_spec_worl_brandshop_polo_rl_shoes_fh.jpg);
+    background-image: url(./wk32_2023_spec_worl_brandshop_polo_rl_shoes_fh.jpg);
     background-size: 513px;
     background-position: right;
     background-color: white;
@@ -752,7 +688,7 @@ background-position: center;
 }
 
 .vanm19{
-    background-image: url(imag/ralph2023000716by9.avif);
+    background-image: url(./ralph2023000716by9.avif);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -763,7 +699,7 @@ background-position: center;
 
 .vanm20{
 position: relative;
-    background-image: url(imag/w2000_q60.avif);
+    background-image: url(./w2000_q60.avif);
     background-size: cover;
     background-position:center;
     background-color: white;
@@ -781,7 +717,7 @@ background-color: white;
 grid-column:1/3;
 grid-row:1/3;
 border-radius: 10px;
-background-image: url(imag/burberry-street-style.webp);
+background-image: url(./burberry-street-style.webp);
 background-position: top;
 background-size: cover;
 background-position: center;
@@ -790,7 +726,7 @@ background-position: center;
 
 .vanm22{
     position: relative;
-    background-image: url(imag/Burberry-Shoes-for-Mens-Sneakers-A22179_03_800x800.jpg);
+    background-image: url(./Burberry-Shoes-for-Mens-Sneakers-A22179_03_800x800.jpg);
     background-size: cover;
     background-position: center;
     background-color: white;
@@ -799,7 +735,7 @@ background-position: center;
 }
 
 .vanm23{
-    background-image: url(imag/product-jpeg-1000x1000.webp);
+    background-image: url(./product-jpeg-1000x1000.webp);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -810,7 +746,7 @@ background-position: center;
 
 .vanm24{
 position: relative;
-    background-image: url(imag/ff3563cc8b32cbcfe27e8198e7732c2b.webp);
+    background-image: url(./ff3563cc8b32cbcfe27e8198e7732c2b.webp);
     background-position: center;
     background-size: cover;
     background-color: white;
