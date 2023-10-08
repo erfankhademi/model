@@ -855,9 +855,6 @@ position: relative;
 
 
 
-*{
-    scroll-behavior: smooth;
-}
 /* ========================================================================================================================= */
 .relv{
     color: black;
@@ -875,8 +872,13 @@ position: relative;
     font-size: 50px;
     z-index: 555;
 }
+*{
+    scroll-behavior: smooth;
+}
 
-
+a{
+      scroll-behavior: smooth;
+}
 
 
 
